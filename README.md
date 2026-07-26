@@ -1,19 +1,19 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ShubhamProgr.ShubhamProgr" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey Everyone!! I am Shubham..." />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Everyone!!;I+am+Shubham..." />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center"> who is JSON? </h3>
 
 <br/>
 
 <div align="center">
-     you just need to know that, i am a great person to talk to..
+    rest you just need to know that, i am a great person to talk to.. 
  </div>
  
 <div align="center"> 
-  <a href="sbahugunacode@gmail.com">
+  <a href="mailto:sbahugunacode@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/shubham-bahuguna-071a90336/" target="_blank">
