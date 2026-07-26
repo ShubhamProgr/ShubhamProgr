@@ -48,11 +48,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app" alt="readme stats" />
+<div align="center">
+  <img width="390" src="https://streak-stats.demolab.com/?user=ShubhamProgr&theme=dark" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=ShubhamProgr&theme=dark&show_icons=true" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app" alt="top langs" />
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamProgr&theme=dark&layout=compact" alt="top langs" />
 </div>
 
 <br/><br/>
