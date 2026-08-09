@@ -9,7 +9,12 @@
 <br/>
 
 <div align="center">
-    rest you just need to know that, i am a great person to talk to.. 
+    
+A programmer is going to the grocery store. His partner tells him, "Buy a loaf of bread, and if they have eggs, get a dozen."
+The programmer returns home with 12 loaves of bread.
+His partner asks, "Why on earth did you buy 12 loaves of bread?!"
+The programmer replies, "They had eggs!"
+
  </div>
  
 <div align="center"> 
@@ -29,8 +34,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,c++,git,docker,powerbi,excel" />
+    <img src="https://skillicons.dev/icons?i=python,supabase,mongodb,c,nextjs,mysql" /><br>
 </div>
 
 <br/>
@@ -50,9 +55,7 @@
 <br>
 <div align="center">
   <img width="390" src="https://streak-stats.demolab.com/?user=ShubhamProgr&theme=dark" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=ShubhamProgr&theme=dark&show_icons=true" alt="readme stats" />
   <br/>
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamProgr&theme=dark&layout=compact" alt="top langs" />
 </div>
 
 <br/><br/>
