@@ -34,7 +34,7 @@ The programmer replies, "They had eggs!"
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,c++,git,docker,powerbi,excel" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,cpp,git,docker" />
     <img src="https://skillicons.dev/icons?i=python,supabase,mongodb,c,nextjs,mysql" /><br>
 </div>
 
