@@ -9,12 +9,7 @@
 <br/>
 
 <div align="center">
-    
-A programmer is going to the grocery store. His partner tells him, "Buy a loaf of bread, and if they have eggs, get a dozen."
-The programmer returns home with 12 loaves of bread.
-His partner asks, "Why on earth did you buy 12 loaves of bread?!"
-The programmer replies, "They had eggs!"
-
+    git commit -m "idk claude did it"
  </div>
  
 <div align="center"> 
