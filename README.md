@@ -4,12 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+Everyone!!;I+am+Shubham..." />
 </h1>
 
-<h3 align="center"> who is JSON? </h3>
+<h3 align="center">    git commit -m "idk claude did it"  </h3>
 
 <br/>
 
 <div align="center">
-    git commit -m "idk claude did it"
  </div>
  
 <div align="center"> 
